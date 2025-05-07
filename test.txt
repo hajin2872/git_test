@@ -1,6 +1,6 @@
 first
-<<<<<<< HEAD
 second
 third
 testbranch
 masterbranch
+test2 sec

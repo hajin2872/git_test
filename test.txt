@@ -1,8 +1,6 @@
 first
+<<<<<<< HEAD
 second
 third
-<<<<<<< HEAD
-masterbranch
-=======
 testbranch
->>>>>>> testbranch
+masterbranch

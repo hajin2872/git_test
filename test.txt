@@ -1,3 +1,6 @@
 first
+<<<<<<< HEAD
 second
 third
+=======
+>>>>>>> parent of 1522a6a (second commit)
